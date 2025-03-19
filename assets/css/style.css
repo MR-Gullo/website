@@ -1,0 +1,34 @@
+/* Obsidian-inspired CSS */
+
+body {
+    background-color: #202123;
+    color: #dcddde;
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    color: #dcddde;
+}
+
+a {
+    color: #7f6df2;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    table {
+        overflow-x: auto;
+        display: block;
+    }
+}
