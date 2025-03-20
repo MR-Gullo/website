@@ -4,7 +4,6 @@
 
 Mr. Gullo is an experienced STEM educator specializing in Physics and Computer Science. He is a licensed teacher in British Columbia and New Zealand with a background in Physics and Computer Science.
 
-## Email: **jgullo@cinec.ca**
 
 **Current Courses:** 
 - Physics 11
@@ -81,24 +80,5 @@ Example: "Physics 12 - Section 2 - Block C"
    - Unit conversions/actual output or errors
    - Steps in your solution/debugging steps
 3. Indicate where you think you might be making a mistake
-
-## Helpful Resources
-
-Check out the list of recommended YouTube channels and websites for additional support:
-
-### Physics:
-- Minutephysics
-- PBS Space Time
-- The Science Asylum
-- Physics with Elliot
-- Physics Girl
-- Flipping Physics
-
-### Computer Science:
-- Ben Eater
-- Sebastian Lague
-- CS Dojo
-- Fireship
-- freeCodeCamp
 
 Remember: Physics and programming concepts build upon previous topics. When asking questions, reference any related topics you've already mastered or are struggling with to help your teacher provide more targeted assistance.
