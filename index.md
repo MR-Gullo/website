@@ -14,10 +14,6 @@ Welcome to my website! This site is designed to be a central hub for my Physics 
     - [Contact Me (Professional)](contact-professional.md)
     - [Contact Me (Students)](contact-students.md)
 
-## Latest Updates
-
-- March 19, 2025: Updated Physics 12 Unit 5 Formula Sheet
-
 ## Office Hours
 
 Daily from 12:30 to 13:00. Location to be determined.
