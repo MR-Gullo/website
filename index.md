@@ -4,15 +4,22 @@ Welcome to my website! This site is designed to be a central hub for my Physics 
 
 ## Quick Navigation
 
--   [Resources](resources.md)
--   [Contact](contact.md)
+- **Course Outlines:**
+    - [Physics 11](assets/course-outlines/physics-11.md)
+    - [Physics 12](assets/course-outlines/physics-12.md)
+    - [Computer Science 12](assets/course-outlines/computer-science-12.md)
+- **Resources:**
+    - [General Resources](assets/resources/resources.md)
+- **Contact Information:**
+    - [Contact Me (Professional)](contact-professional.md)
+    - [Contact Me (Students)](contact-students.md)
 
 ## Latest Updates
 
--   March 19, 2025: Updated Physics 12 Unit 5 Formula Sheet
+- March 19, 2025: Updated Physics 12 Unit 5 Formula Sheet
 
 ## Office Hours
 
-Daily 12:30–13:00 (location TBD)
+Daily from 12:30 to 13:00. Location to be determined.
 
-[Contact Me](contact.md)
+To make an appointment or ask any questions, please [contact me here](contact-professional.md).
