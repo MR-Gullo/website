@@ -4,9 +4,6 @@ Welcome to my website! This site is designed to be a central hub for my Physics 
 
 ## Quick Navigation
 
--   [Physics 11](physics-formulas.md)
--   [Physics 12](physics12.md)
--   [Computer Science 12](computerscience12.md)
 -   [Resources](resources.md)
 -   [Contact](contact.md)
 
