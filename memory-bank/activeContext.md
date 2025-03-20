@@ -8,10 +8,9 @@ Initializing the memory bank and setting up the basic project structure for Mr. 
 - Created `productContext.md` to outline the purpose, problems solved, and user experience goals of the website.
 
 ## Next Steps
-- Create `systemPatterns.md` to document the system architecture and design patterns.
-- Create `techContext.md` to specify the technologies used and development setup.
-- Create `progress.md` to track the current status and known issues.
 - Set up the basic directory structure for the website.
+- Add sample content (e.g., Physics 12 Unit 5 formula sheet, C++ reference sheets).
+- Configure Jekyll and deploy to GitHub Pages.
 
 ## Active Decisions and Considerations
 - **Technology Stack:** Using GitHub Pages with Jekyll for static site generation.

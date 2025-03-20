@@ -9,6 +9,7 @@
     - `techContext.md`
 
 ## What's Left to Build
+- Set up the basic directory structure for the website.
 - Add sample content (e.g., Physics 12 Unit 5 formula sheet, C++ reference sheets).
 - Configure Jekyll and deploy to GitHub Pages.
 
